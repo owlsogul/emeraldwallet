@@ -1,0 +1,4 @@
+name: EmeraldWallet
+version: 1.0
+main: owlsogul.com.emeraldwallet.EmeraldWalletPlugin
+api-version: 1.13
